@@ -1,0 +1,26 @@
+header{
+    height: 40px;
+    padding:10px;
+    background-color: black;
+    text-align: end;
+    line-height: 20px;
+}
+
+header img {
+    height: 100%;
+}
+
+.btn{
+    border-radius:1.5rem;
+    font-size:0.75rem;
+}
+
+.my_search-icon{
+    padding-top: 12px;
+    margin-left: 10px;
+}
+
+.nav-link{
+    font-size:0.75rem;
+    font-weight: bold;
+}
