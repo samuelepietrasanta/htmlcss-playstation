@@ -117,3 +117,31 @@ header img {
     border-color:steelblue;
     cursor: pointer;
 }
+
+.my_jumbo-two{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: center;
+    color:white;
+}
+
+#new-games{
+    background-color: #1f1f1f;
+    color:white;
+    padding: 20px;
+}
+
+.my_new-game-image > img{
+    width: 100%;
+    border-radius: 20px;
+    margin-bottom: 5px;
+}
+
+.my_text-new-game{
+    font-weight: 600;
+    font-size: .9rem;
+}
+
+.my_min-height{
+    min-height: 100vh;
+}
