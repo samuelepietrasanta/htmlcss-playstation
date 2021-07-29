@@ -129,11 +129,6 @@ h1 i{
     color:white;
 }
 
-#new-games{
-    background-color: #1f1f1f;
-    color:white;
-    padding: 20px;
-}
 
 .my_new-game-image > img{
     width: 100%;
@@ -152,5 +147,30 @@ h1 i{
 
 .my_ps4-images > img{
     width: 100%;
+    
+}
 
+.my_ps-plus-btn{
+    color: rgb(0, 118, 253);
+    background-color: gainsboro;
+    font-weight: bold;
+}
+
+.ps-logo{
+    width: 70%;
+}
+
+#new-games{
+    background-color: #1f1f1f;
+    color:white;
+    padding: 20px;
+}
+
+#playstation-plus{
+    background-color: #bebcbb;
+    padding:30px 0;
+}
+
+.ps-plus-games{
+    width: 100%;
 }
