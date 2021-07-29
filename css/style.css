@@ -113,6 +113,10 @@ ul li{
     font-size: .9rem;
 }
 
+.my_btn-50{
+    width: 50%;
+}
+
 .my_ps5-container > img{
     width: 100%;
 }
