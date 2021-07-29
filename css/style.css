@@ -34,6 +34,14 @@ ul li{
     margin-bottom:5px;
 }
 
+li a{
+    text-decoration: none;
+    color:white;
+}
+
+li a:hover{
+    color: white;
+}
 
 .btn{
     border-radius:1.5rem;
@@ -80,7 +88,6 @@ ul li{
     font-weight: bold;
 }
 
-
 .my_little-image-container{
     border:2px solid transparent;
     overflow: hidden;
@@ -96,7 +103,6 @@ ul li{
     width: 100%;
     border-radius: 15px;
 }
-
 
 .subtitle{
     color:grey;
@@ -137,9 +143,17 @@ ul li{
     border-color:steelblue;
 }
 
+.unactive{
+    opacity:.6;
+}
+
 .my_ps5-items-border-bottom:hover{
     border-color:steelblue;
     cursor: pointer;
+}
+
+.my_ps5-items-border-bottom:hover.unactive{
+    opacity:1;
 }
 
 .my_jumbo-two{
@@ -147,13 +161,6 @@ ul li{
     background-size: cover;
     background-position: center;
     color:white;
-}
-
-
-.my_new-game-image > img{
-    width: 100%;
-    border-radius: 20px;
-    margin-bottom: 5px;
 }
 
 .my_text-new-game{
@@ -167,7 +174,6 @@ ul li{
 
 .my_ps4-images > img{
     width: 100%;
-    
 }
 
 .my_ps-plus-btn{
@@ -229,7 +235,6 @@ ul li{
     width: 15px;
     margin-right: 15px;
 }
-
 
 #info{
     text-decoration: underline;
