@@ -10,12 +10,28 @@ header{
     line-height: 20px;
 }
 
+footer{
+    background-color: #00439c;
+    color:white;
+    padding: 30px 0;
+}
+
+footer p{
+    font-size: .8rem;
+    font-weight: bold;
+}
+
 header img {
     height: 100%;
 }
 
 h1 i{
     font-size: .8em;
+}
+
+ul li{
+    list-style-type: none;
+    margin-bottom:5px;
 }
 
 
@@ -172,6 +188,14 @@ h1 i{
     font-size:.9rem;
 }
 
+.ps-footer{
+    width: 20%;
+}
+
+.sie-footer{
+    width: 30%;
+}
+
 #new-games{
     background-color: #1f1f1f;
     color:white;
@@ -195,4 +219,14 @@ h1 i{
 
 #social-media img{
     width: 100%;
+}
+
+#country > img{
+    width: 15px;
+    margin-right: 15px;
+}
+
+
+#info{
+    text-decoration: underline;
 }
