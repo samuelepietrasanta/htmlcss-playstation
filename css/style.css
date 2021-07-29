@@ -160,6 +160,10 @@ h1 i{
     width: 70%;
 }
 
+.ps-plus-games{
+    width: 100%;
+}
+
 #new-games{
     background-color: #1f1f1f;
     color:white;
@@ -171,6 +175,6 @@ h1 i{
     padding:30px 0;
 }
 
-.ps-plus-games{
+#discount img{
     width: 100%;
 }
